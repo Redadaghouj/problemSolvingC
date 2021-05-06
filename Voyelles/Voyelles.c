@@ -50,7 +50,7 @@ int main(int argc, char *argv[]) {
 					if (estVoyelle(c) == true) // calling the fonction, if return TRUE thats means its voyelle
 						fputc (c,pf2);
 					else
-						fputc (c,pf3);
+						if (c != EOF) fputc (c,pf3);
 				}
 				fclose (pf1);
 				fclose (pf2);
