@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
 					}
 				}
 			}
-			// open theerd file
+			// open third file
 			FILE *pf3 = NULL;
 			pf3 = fopen ("F.txt","w");
 			if (pf3 == NULL) {
