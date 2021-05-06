@@ -35,7 +35,7 @@ int main(int argc, char *argv[]) {
 			exit (1);
 		}
 		else {
-			// open theerd file
+			// open third file
 			FILE *pf3 = NULL;
 			pf3 = fopen ("consonnes.txt","w");
 			if (pf3 == NULL) {
