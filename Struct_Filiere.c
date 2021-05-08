@@ -8,12 +8,12 @@ typedef struct {
 }Filiere;
 Filiere tab2[100];
 Filiere lecture (Filiere fil) {
-	int j=0;
 	printf ("\nSaisez les informations : \n");
 	debut :
 	printf ("\tCode de filiere : ");
 	scanf ("%d",&fil.code_filiere);
 	if (taille2 != 0) {
+		int j=0;
 		do {
 			if (fil.code_filiere == tab2[j].code_filiere) {
 				printf ("\t\tCode deja exister !\n");
