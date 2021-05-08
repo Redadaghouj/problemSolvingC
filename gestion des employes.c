@@ -122,7 +122,7 @@ int main(int argc, char *argv[]) {
 		saisez :
 		printf ("\nEntrez nombre des employes : ");
 		scanf ("%d",&Nbr);
-		Nbr2+=Nbr;
+		Nbr2 += Nbr;
 		info_emp(Nbr, info);
 		system ("cls");
 		printf ("\nVous avez termine de remplir les informations.\n");
