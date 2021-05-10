@@ -1,0 +1,2 @@
+une algorithme est une suite finie d'instuctions qui visent a resoudre
+un probleme donnes

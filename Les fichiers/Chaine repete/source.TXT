@@ -1,0 +1,7 @@
+1)Lalgorithmique est letude et la production de regles et techniques
+2)qui sont impliquees dans la definition et la conception dalgorithmes
+3)cest a dire le processus systematiques de resolution dun probleme
+4)permettant de decrire precisement des etapes pour resoudre un probleme algorithmique
+5)une des methodes a respecter pour bien avoir un espret de raisonnement algorithmique
+6)est dessayer de derouler manuellement un nombre important dalgorithmes et dessayer a chaque fois de comprendre lidee
+7)principale derrire chaque algorithme
